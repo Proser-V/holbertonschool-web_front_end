@@ -348,9 +348,14 @@ template {
   display: none;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
     scroll-behavior: smooth;
-    box-sizing: border-box;
     font-size: 62.5%;
 }
 :root {
