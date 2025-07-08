@@ -69,7 +69,7 @@ html {
     background: var(--color-black);
     --button-color: var(--color-white);
 }
-header {
+.header {
     padding: var(--header-padding);
 }
 .header-logo {
