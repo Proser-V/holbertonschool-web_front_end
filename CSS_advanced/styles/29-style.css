@@ -161,6 +161,7 @@ body {
 .nav .nav-link:hover .nav-item::before {
     background-color: var(--color-primary);
     width: 100%;
+    line-height: 0.2rem;
 }
 .section {
     padding: var(--section-padding);
