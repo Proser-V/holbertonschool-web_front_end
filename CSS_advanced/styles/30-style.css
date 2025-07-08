@@ -111,7 +111,7 @@ body {
     position: relative;
     overflow: hidden;
 }
-.card-work .card-image {
+.card-work .card-image img {
     width: 100%;
     height: 30rem;
     object-fit: cover;
@@ -148,11 +148,11 @@ body {
     left: 0;
     content:"";
 }
-.card-testimonial {
-    text-align: center;
-}
 .card-work:hover .card-title {
     opacity: 1;
+}
+.card-testimonial {
+    text-align: center;
 }
 .card-testimonial .card-avatar {
     border-radius: 50%;
