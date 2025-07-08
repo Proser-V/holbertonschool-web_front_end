@@ -158,7 +158,7 @@ body {
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
-.nav .nav-link .nav-item::before {
+.nav .nav-link:hover .nav-item::before {
     background-color: var(--color-primary);
     width: 100%;
 }
