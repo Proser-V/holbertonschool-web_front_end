@@ -164,7 +164,7 @@ ul.row {
     display: block;
 }
 .social-link svg {
-    fill: var(--text-color)
+    fill: var(--text-color);
 }
 .footer {
     padding: var(--footer-padding);
@@ -178,5 +178,5 @@ ul.row {
     color: var(--text-color);
 }
 .footer-address {
-    color: var(--text-color)
+    color: var(--text-color);
 }
