@@ -164,6 +164,7 @@ ul.row {
     display: block;
 }
 .social-link svg {
+    display: inline-block;
     fill: var(--text-color);
 }
 .footer {
